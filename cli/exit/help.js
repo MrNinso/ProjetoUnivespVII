@@ -1,0 +1,1 @@
+module.exports = async () => console.log("exit      Fecha o programa")
